@@ -1,5 +1,4 @@
-# Shaping the niche of Taxus baccata, a modelling exercise using biologically
-meaningful information.
+# Shaping the niche of Taxus baccata, a modelling exercise using biologically meaningful information.
 
 Scripts used to analyze data reported in the paper published by Sanchez-Martinez et al. Forest Ecology and Management in 2021. 
 
